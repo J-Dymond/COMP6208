@@ -14,3 +14,7 @@ Stemming - done
 Lemmatisation -  done
 
 Word Stopping - done
+
+BERT pre-processing 
+
+Output pre-processed vectors to separate files for analysis
